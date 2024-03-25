@@ -1,6 +1,6 @@
 # FULL_ADDER
 # AIM:
-To simulate and synthesis Full adder using Vivado software.
+To simulate and synthesis of Full adder using Vivado software.
 # APPARATUS REQUIRED:
 Vivado 2023.1 software.
 # Truth Table
@@ -28,4 +28,4 @@ Vivado 2023.1 software.
 <img width="960" alt="Screenshot 2024-03-25 212803" src="https://github.com/DeepanAnbazhagan/FULL_ADDER/assets/164902865/bf9ffcee-2307-4454-8397-9c245476d061">
 
 # RESULT:
-Thus the simulate and synthesis Full adder verified successfully by using Vivado software.
+Thus the simulate and synthesis of Full adder is verified successfully by using Vivado software.
