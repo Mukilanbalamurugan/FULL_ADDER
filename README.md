@@ -23,7 +23,9 @@ Vivado 2023.1 software.
      endmodule
 # Elaborated Design:
 <img width="960" alt="Screenshot 2024-03-25 212901" src="https://github.com/DeepanAnbazhagan/FULL_ADDER/assets/164902865/ec574cbb-eace-438e-8d0e-b259a73cd6a4">
+
 # Output: 
 <img width="960" alt="Screenshot 2024-03-25 212803" src="https://github.com/DeepanAnbazhagan/FULL_ADDER/assets/164902865/bf9ffcee-2307-4454-8397-9c245476d061">
+
 # RESULT:
 Thus the simulate and synthesis Full adder verified successfully by using Vivado software.
