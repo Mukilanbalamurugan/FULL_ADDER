@@ -25,7 +25,8 @@ Vivado 2023.1 software.
 <img width="960" alt="Screenshot 2024-03-25 212901" src="https://github.com/DeepanAnbazhagan/FULL_ADDER/assets/164902865/ec574cbb-eace-438e-8d0e-b259a73cd6a4">
 
 # Output: 
-<img width="960" alt="Screenshot 2024-03-25 212803" src="https://github.com/DeepanAnbazhagan/FULL_ADDER/assets/164902865/bf9ffcee-2307-4454-8397-9c245476d061">
+![fulladder pic](https://github.com/Mukilanbalamurugan/FULL_ADDER/assets/159005942/0de77373-1bda-4101-8c9b-ea9c51b6afa0)
+
 
 # RESULT:
 Thus the simulate and synthesis of Full adder is verified successfully by using Vivado software.
